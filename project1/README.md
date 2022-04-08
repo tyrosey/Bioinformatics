@@ -1,4 +1,4 @@
-# Bioinformatics_project_1
+# Bioinformatics
 Optimal Alignments
 
 This Project was created in python and tested on a school server via ssh.
